@@ -1,0 +1,365 @@
+ROOT = {
+limit = { ai = no }
+every_owned_province = {
+add_province_modifier = {
+	name = enforce_serfdom
+	duration = -1
+}
+add_province_modifier = {
+	name = support_troops
+	duration = -1
+}
+add_province_modifier = {
+	name = military_funding
+	duration = -1
+}
+add_province_modifier = {
+	name = military_funding2
+	duration = -1
+}
+add_province_modifier = {
+	name = the_devshirme_system
+	duration = -1
+}
+add_province_modifier = {
+	name = the_theme_system
+	duration = -1
+}
+add_province_modifier = {
+	name = recruitmaster_boost
+	duration = -1
+}
+add_province_modifier = {
+	name = papal_sanction_for_holy_war
+	duration = -1
+}
+add_province_modifier = {
+	name = to_the_colours
+	duration = -1
+}
+add_province_modifier = {
+	name = massachusetts_humane_society
+	duration = -1
+}
+add_province_modifier = {
+	name = importing_cocoa
+	duration = -1
+}
+add_province_modifier = {
+	name = maya_pilgrimages
+	duration = -1
+}
+add_province_modifier = {
+	name = pap_swiss_guard
+	duration = -1
+}
+add_province_modifier = {
+	name = dev_general_hospital
+	duration = -1
+}
+add_province_modifier = {
+	name = military_victory
+	duration = -1
+}
+add_province_modifier = {
+	name = national_recovery
+	duration = -1
+}
+add_province_modifier = {
+	name = english_out_of_france
+	duration = -1
+}
+add_province_modifier = {
+	name = defended_denmark
+	duration = -1
+}
+add_province_modifier = {
+	name = afghanistan_secured_mug
+	duration = -1
+}
+add_province_modifier = {
+	name = maravi_land_of_flames
+	duration = -1
+}
+add_province_modifier = {
+	name = muxe_at_military
+	duration = -1
+}
+add_province_modifier = {
+	name = ikkos_empowered
+	duration = -1
+}
+add_province_modifier = {
+	name = ghazis_from_abroad
+	duration = -1
+}
+add_province_modifier = {
+	name = mamluk_amir_al_hajj
+	duration = -1
+}
+add_province_modifier = {
+	name = conscripting_pacifists
+	duration = -1
+}
+add_province_modifier = {
+	name = royal_hungary
+	duration = -1
+}
+add_province_modifier = {
+	name = at_the_gates_of_europe
+	duration = -1
+}
+add_province_modifier = {
+	name = anatolia_eyalet
+	duration = -1
+}
+add_province_modifier = {
+	name = silesia_conquered
+	duration = -1
+}
+add_province_modifier = {
+	name = theme_of_sicily
+	duration = -1
+}
+add_province_modifier = {
+	name = balkan_empire
+	duration = -1
+}
+add_province_modifier = {
+	name = per_tribal_warriors
+	duration = -1
+}
+add_province_modifier = {
+	name = norway_subjugated_swe
+	duration = -1
+}
+add_province_modifier = {
+	name = eng_french_recovery
+	duration = -1
+}
+add_province_modifier = {
+	name = gbr_rb_indian_integration
+	duration = -1
+}
+add_province_modifier = {
+	name = conquest_of_beijing
+	duration = -1
+}
+add_province_modifier = {
+	name = mug_hindustan_mod
+	duration = -1
+}
+add_province_modifier = {
+	name = white_sheep_ascendant
+	duration = -1
+}
+add_province_modifier = {
+	name = united_saurashtra
+	duration = -1
+}
+add_province_modifier = {
+	name = pirate_the_pirate_threat
+	duration = -1
+}
+add_province_modifier = {
+	name = gra_eagerness_to_serve
+	duration = -1
+}
+add_province_modifier = {
+	name = ser_moravian_valor
+	duration = -1
+}
+add_province_modifier = {
+	name = les_invalides
+	duration = -1
+}
+add_province_modifier = {
+	name = pap_gasmoulikon_corps
+	duration = -1
+}
+add_province_modifier = {
+	name = royal_hungary
+	duration = -1
+}
+}
+add_country_modifier = {
+	name = enforce_serfdom
+	duration = -1
+}
+add_country_modifier = {
+	name = support_troops
+	duration = -1
+}
+add_country_modifier = {
+	name = military_funding
+	duration = -1
+}
+add_country_modifier = {
+	name = military_funding2
+	duration = -1
+}
+add_country_modifier = {
+	name = the_devshirme_system
+	duration = -1
+}
+add_country_modifier = {
+	name = the_theme_system
+	duration = -1
+}
+add_country_modifier = {
+	name = recruitmaster_boost
+	duration = -1
+}
+add_country_modifier = {
+	name = papal_sanction_for_holy_war
+	duration = -1
+}
+add_country_modifier = {
+	name = to_the_colours
+	duration = -1
+}
+add_country_modifier = {
+	name = massachusetts_humane_society
+	duration = -1
+}
+add_country_modifier = {
+	name = importing_cocoa
+	duration = -1
+}
+add_country_modifier = {
+	name = maya_pilgrimages
+	duration = -1
+}
+add_country_modifier = {
+	name = pap_swiss_guard
+	duration = -1
+}
+add_country_modifier = {
+	name = dev_general_hospital
+	duration = -1
+}
+add_country_modifier = {
+	name = military_victory
+	duration = -1
+}
+add_country_modifier = {
+	name = national_recovery
+	duration = -1
+}
+add_country_modifier = {
+	name = english_out_of_france
+	duration = -1
+}
+add_country_modifier = {
+	name = defended_denmark
+	duration = -1
+}
+add_country_modifier = {
+	name = afghanistan_secured_mug
+	duration = -1
+}
+add_country_modifier = {
+	name = maravi_land_of_flames
+	duration = -1
+}
+add_country_modifier = {
+	name = muxe_at_military
+	duration = -1
+}
+add_country_modifier = {
+	name = ikkos_empowered
+	duration = -1
+}
+add_country_modifier = {
+	name = ghazis_from_abroad
+	duration = -1
+}
+add_country_modifier = {
+	name = mamluk_amir_al_hajj
+	duration = -1
+}
+add_country_modifier = {
+	name = conscripting_pacifists
+	duration = -1
+}
+add_country_modifier = {
+	name = royal_hungary
+	duration = -1
+}
+add_country_modifier = {
+	name = at_the_gates_of_europe
+	duration = -1
+}
+add_country_modifier = {
+	name = anatolia_eyalet
+	duration = -1
+}
+add_country_modifier = {
+	name = silesia_conquered
+	duration = -1
+}
+add_country_modifier = {
+	name = theme_of_sicily
+	duration = -1
+}
+add_country_modifier = {
+	name = balkan_empire
+	duration = -1
+}
+add_country_modifier = {
+	name = per_tribal_warriors
+	duration = -1
+}
+add_country_modifier = {
+	name = norway_subjugated_swe
+	duration = -1
+}
+add_country_modifier = {
+	name = eng_french_recovery
+	duration = -1
+}
+add_country_modifier = {
+	name = gbr_rb_indian_integration
+	duration = -1
+}
+add_country_modifier = {
+	name = conquest_of_beijing
+	duration = -1
+}
+add_country_modifier = {
+	name = mug_hindustan_mod
+	duration = -1
+}
+add_country_modifier = {
+	name = white_sheep_ascendant
+	duration = -1
+}
+add_country_modifier = {
+	name = united_saurashtra
+	duration = -1
+}
+add_country_modifier = {
+	name = pirate_the_pirate_threat
+	duration = -1
+}
+add_country_modifier = {
+	name = gra_eagerness_to_serve
+	duration = -1
+}
+add_country_modifier = {
+	name = ser_moravian_valor
+	duration = -1
+}
+add_country_modifier = {
+	name = les_invalides
+	duration = -1
+}
+add_country_modifier = {
+	name = pap_gasmoulikon_corps
+	duration = -1
+}
+add_country_modifier = {
+	name = royal_hungary
+	duration = -1
+}
+}

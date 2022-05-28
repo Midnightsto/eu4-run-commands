@@ -1,0 +1,35 @@
+ROOT { 
+limit = { ai = no }
+every_owned_province = {
+add_province_modifier = {
+	name = jap_sengoku_jidai
+	duration = -1
+}add_province_modifier = {
+	name = chushingura
+	duration = -1
+}add_province_modifier = {
+	name = rb_eng_theory_warfare
+	duration = -1
+}
+add_province_modifier = {
+	name = the_royal_army
+	duration = -1
+}add_province_modifier = {
+	name = beyond_the_pale_modifier
+	duration = -1
+}add_province_modifier = {
+	name = conquest_of_espainiako
+	duration = -1
+}add_province_modifier = {
+	name = pru_space_marines_2
+	duration = -1
+}add_province_modifier = {
+	name = empowered_junkers
+	duration = -1
+}add_province_modifier = {
+	name = army_enthusiasm
+	duration = -1
+}add_province_modifier = {
+	name = beyond_the_pale_modifier
+	duration = -1
+}

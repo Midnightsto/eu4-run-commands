@@ -1,0 +1,10 @@
+ROOT = {
+limit = { ai = no }
+every_owned_province = {
+add_province_modifier = {
+	name = cardinals_spread_institution
+	duration = -1
+}add_province_modifier = {
+	name = num_objectives_fullfilled
+	duration = -1
+}

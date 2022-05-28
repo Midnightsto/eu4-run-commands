@@ -1,0 +1,54 @@
+ROOT = {
+limit = { ai = no}
+add_country_modifier = {
+	name = competent_diplomacy
+	duration = -1
+}
+add_country_modifier = {
+	name = pap_sistinechapel_perugino
+	duration = -1
+}
+add_country_modifier = {
+	name = bavarian_ambition
+	duration = -1
+}
+add_country_modifier = {
+	name = beloved_diplomats
+	duration = -1
+}
+add_country_modifier = {
+	name = mary_inheritance_reforms
+	duration = -1
+}
+add_country_modifier = {
+	name = mlo_has_friends
+	duration = -1
+}
+add_country_modifier = {
+	name = pro_lorraine_modifier
+	duration = -1
+}
+add_country_modifier = {
+	name = hab_balance_of_power_mod
+	duration = -1
+}
+add_country_modifier = {
+	name = bur_english_diplomacy
+	duration = -1
+}
+add_country_modifier = {
+	name = bishop_elector_good_diplomacy
+	duration = -1
+}
+add_country_modifier = {
+	name = boh_integrated_silesia
+	duration = -1
+}
+add_country_modifier = {
+	name = bri_rulers_of_paris
+	duration = -1
+}
+add_country_modifier = {
+	name = itm_influential_government
+	duration = -1
+}

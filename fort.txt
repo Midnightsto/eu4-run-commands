@@ -1,0 +1,31 @@
+ROOT = { 
+limit = { ai = no }
+every_owned_province = {
+add_province_modifier = {
+	name = great_wall_reparations
+	duration = -1
+}add_province_modifier = {
+	name = fortification_expert_boost
+	duration = -1
+}add_province_modifier = {
+	name = improved_fort_defense
+	duration = -1
+}add_province_modifier = {
+	name = mer_fortification_effort
+	duration = -1
+}add_province_modifier = {
+	name = forts_of_rajputana
+	duration = -1
+}add_province_modifier = {
+	name = south_india_forts
+	duration = -1
+}add_province_modifier = {
+	name = kor_built_the_wall_2
+	duration = -1
+}add_province_modifier = {
+	name = mlo_alpine_fortifications
+	duration = -1
+}add_province_modifier = {
+	name = boh_fortification_effort
+	duration = -1
+}

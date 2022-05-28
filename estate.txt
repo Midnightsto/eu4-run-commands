@@ -1,0 +1,37 @@
+ROOT = {
+limit = { ai = no }
+every_owned_province = {
+add_province_modifier = {
+	name = the_sheikh_ul_islam
+	duration = -1
+}add_province_modifier = {
+	name = mug_control_of_sufi_shrines
+	duration = -1
+}add_province_modifier = {
+	name = kor_factional_unity
+	duration = -1
+}add_province_modifier = {
+	name = itm_loyalists_control_the_church
+	duration = -1
+}add_province_modifier = {
+	name = mug_control_of_sufi_shrines
+	duration = -1
+}add_province_modifier = {
+	name = hab_viennese_ballrooms
+	duration = -1
+}add_province_modifier = {
+	name = republic_bourgeois_center
+	duration = -1
+}add_province_modifier = {
+	name = itm_merchant_princes_prosper
+	duration = -1
+}add_province_modifier = {
+	name = fla_prosperous_burghers
+	duration = -1
+}
+}
+add_estate_loyalty = {
+estate = all 
+loyalty = 100
+}
+  take_estate_land_share_massive = { estate = all }

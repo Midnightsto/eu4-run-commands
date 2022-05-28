@@ -1,0 +1,28 @@
+ROOT = {
+limit = { ai = no }
+every_owned_province = {
+add_province_modifier = {
+	name = guru_granth_sahib_military
+	duration = -1
+}add_province_modifier = {
+	name = gunpowder_core
+	duration = -1
+}add_province_modifier = {
+	name = standardized_uniforms_modifier
+	duration = -1
+}add_province_modifier = {
+	name = pro_la_marseillaise
+	duration = -1
+}add_province_modifier = {
+	name = pru_space_marines
+	duration = -1
+}add_province_modifier = {
+	name = the_great_army_reorganization
+	duration = -1
+}add_province_modifier = {
+	name = regimental_pride
+	duration = -1
+}add_province_modifier = {
+	name = ottoman_hungary
+	duration = -1
+}

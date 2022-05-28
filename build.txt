@@ -1,0 +1,37 @@
+ROOT = {
+limit = { ai = no }
+every_owned_province = {
+add_province_modifier = {
+	name = construction_wages
+	duration = -1
+}add_province_modifier = {
+	name = shiva_srishti
+	duration = -1
+}add_province_modifier = {
+	name = golden_age_transylvania
+	duration = -1
+}add_province_modifier = {
+	name = wih_elizabethwilbraham
+	duration = -1
+}add_province_modifier = {
+	name = vij_building
+	duration = -1
+}add_province_modifier = {
+	name = mlw_fortified
+	duration = -1
+}add_province_modifier = {
+	name = restoration_of_kiev
+	duration = -1
+}add_province_modifier = {
+	name = ven_urban_renewal
+	duration = -1
+}add_province_modifier = {
+	name = pru_construction_modifier
+	duration = -1
+}add_province_modifier = {
+	name = growing_economy
+	duration = -1
+}add_province_modifier = {
+	name = nov_the_great
+	duration = -1
+}

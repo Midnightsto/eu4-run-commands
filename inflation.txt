@@ -1,0 +1,25 @@
+ROOT = {
+limit = { ai = no }
+every_owned_province = {
+add_province_modifier = {
+	name = hol_strict_control
+	duration = -1
+}add_province_modifier = {
+	name = approprioated_currency
+	duration = -1
+}add_province_modifier = {
+	name = revolution_administrative_reforms
+	duration = -1
+}add_province_modifier = {
+	name = national_bank_inflation
+	duration = -1
+}add_province_modifier = {
+	name = master_of_mint_boost
+	duration = -1
+}add_province_modifier = {
+	name = strong_treasury
+	duration = -1
+}add_province_modifier = {
+	name = taula_de_canvi
+	duration = -1
+}

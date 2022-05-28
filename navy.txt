@@ -1,0 +1,462 @@
+ROOT = {
+limit = { ai = no }
+add_country_modifier = {
+	name = thalassocracy
+	duration = -1
+}
+add_country_modifier = {
+	name = the_admirality
+	duration = -1
+}
+add_country_modifier = {
+	name = ottoman_naval_expansion
+	duration = -1
+}
+add_country_modifier = {
+	name = divine_wind_modifier
+	duration = -1
+}
+add_country_modifier = {
+	name = neva_fleet
+	duration = -1
+}
+add_country_modifier = {
+	name = pirate_a_scourge_on_the_seven_seas
+	duration = -1
+}
+add_country_modifier = {
+	name = gen_achieved_mare_nostrum
+	duration = -1
+}
+add_country_modifier = {
+	name = ita_scipios_helmet
+	duration = -1
+}
+add_country_modifier = {
+	name = naval_enthusiasm_mission
+	duration = -1
+}
+add_country_modifier = {
+	name = adler_von_lubeck
+	duration = -1
+}
+add_country_modifier = {
+	name = naval_modifier
+	duration = -1
+}
+add_country_modifier = {
+	name = swedish_naval_reforms
+	duration = -1
+}
+add_country_modifier = {
+	name = good_supplies
+	duration = -1
+}
+add_country_modifier = {
+	name = iron_ships
+	duration = -1
+}
+add_country_modifier = {
+	name = heavy_ship_veterans
+	duration = -1
+}
+add_country_modifier = {
+	name = rule_britannia
+	duration = -1
+}
+add_country_modifier = {
+	name = bng_proto_industrial_shipyards
+	duration = -1
+}
+add_country_modifier = {
+	name = mor_north_sea_corsairs
+	duration = -1
+}
+add_country_modifier = {
+	name = mlw_gujarat_modifier
+	duration = -1
+}
+add_country_modifier = {
+	name = india_production
+	duration = -1
+}
+add_country_modifier = {
+	name = sav_tyrrhenian_sea
+	duration = -1
+}
+add_country_modifier = {
+	name = protected_commerce
+	duration = -1
+}
+add_country_modifier = {
+	name = berber_piracy
+	duration = -1
+}
+add_country_modifier = {
+	name = pirate_trade_practices
+	duration = -1
+}
+add_country_modifier = {
+	name = ned_sea_beggar_activity
+	duration = -1
+}
+add_country_modifier = {
+	name = ven_la_francocrazia
+	duration = -1
+}
+add_country_modifier = {
+	name = croatian_fleet
+	duration = -1
+}
+add_country_modifier = {
+	name = eng_rb_gibraltar_mod
+	duration = -1
+}
+add_country_modifier = {
+	name = spa_rb_italian_ambition_mod
+	duration = -1
+}
+add_country_modifier = {
+	name = mor_tunis_conquest
+	duration = -1
+}
+add_country_modifier = {
+	name = tun_med_conquest
+	duration = -1
+}
+add_country_modifier = {
+	name = kni_new_crusade
+	duration = -1
+}
+add_country_modifier = {
+	name = tur_navy_reform
+	duration = -1
+}
+add_country_modifier = {
+	name = galley_veterans
+	duration = -1
+}
+add_country_modifier = {
+	name = imperial_halic_shipyard
+	duration = -1
+}
+add_country_modifier = {
+	name = hsa_adler_ship
+	duration = -1
+}
+add_country_modifier = {
+	name = hsa_peter_ship
+	duration = -1
+}
+add_country_modifier = {
+	name = timber_surplus
+	duration = -1
+}
+add_country_modifier = {
+	name = merchants_prepare_war
+	duration = -1
+}
+add_country_modifier = {
+	name = western_naval_influence
+	duration = -1
+}
+add_country_modifier = {
+	name = black_sea_ambition
+	duration = -1
+}
+add_country_modifier = {
+	name = nav_reclaimed_coast
+	duration = -1
+}
+add_country_modifier = {
+	name = mongol_fleet_modifier
+	duration = -1
+}
+add_country_modifier = {
+	name = kor_turtle_fleets
+	duration = -1
+}
+add_country_modifier = {
+	name = bav_italian_coast
+	duration = -1
+}
+add_country_modifier = {
+	name = lan_tuscan_naval_expansion
+	duration = -1
+}
+add_country_modifier = {
+	name = han_hansa_cities_mod
+	duration = -1
+}
+add_country_modifier = {
+	name = black_sea_ambition
+	duration = -1
+}
+add_country_modifier = {
+	name = nav_reclaimed_coast
+	duration = -1
+}
+add_country_modifier = {
+	name = ship_building_boom
+	duration = -1
+}
+add_country_modifier = {
+	name = thriving_ship_building_sector
+	duration = -1
+}
+add_country_modifier = {
+	name = expansion_of_the_shipbuilding_industry
+	duration = -1
+}
+add_country_modifier = {
+	name = tur_barbary_pirates
+	duration = -1
+}
+add_country_modifier = {
+	name = mongol_fleet_modifier
+	duration = -1
+}
+add_country_modifier = {
+	name = lan_tuscan_naval_expansion
+	duration = -1
+}
+add_country_modifier = {
+	name = venice_galley_conscription
+	duration = -1
+}
+add_country_modifier = {
+	name = expansion_of_the_shipbuilding_industry
+	duration = -1
+}
+add_country_modifier = {
+	name = omani_ambition
+	duration = -1
+}
+add_country_modifier = {
+	name = faster_ships
+	duration = -1
+}
+add_country_modifier = {
+	name = theme_of_sicily
+	duration = -1
+}
+add_country_modifier = {
+	name = por_ivory_gains
+	duration = -1
+}
+add_country_modifier = {
+	name = eng_rb_gibraltar_mod
+	duration = -1
+}
+add_country_modifier = {
+	name = pirate_a_pirate_fleet
+	duration = -1
+}
+add_country_modifier = {
+	name = gen_achieved_mare_nostrum
+	duration = -1
+}
+add_country_modifier = {
+	name = ita_scipios_helmet
+	duration = -1
+}
+add_country_modifier = {
+	name = adler_von_lubeck_modifier
+	duration = -1
+}
+add_country_modifier = {
+	name = baltic_ambition_new
+	duration = -1
+}
+add_country_modifier = {
+	name = mug_malay_seamanship
+	duration = -1
+}
+add_country_modifier = {
+	name = refoming_barbary_pirates
+	duration = -1
+}
+add_country_modifier = {
+	name = pirate_triangle_trade
+	duration = -1
+}
+add_country_modifier = {
+	name = pirate_a_scourge_on_the_seven_seas
+	duration = -1
+}
+add_country_modifier = {
+	name = nav_reclaimed_coast
+	duration = -1
+}
+add_country_modifier = {
+	name = adu_trade_company_founded
+	duration = -1
+}
+add_country_modifier = {
+	name = bav_italian_coast
+	duration = -1
+}
+add_country_modifier = {
+	name = pap_gasmoulikon_corps
+	duration = -1
+}
+add_country_modifier = {
+	name = naval_enthusiasm_mission
+	duration = -1
+}
+add_country_modifier = {
+	name = naval_reform
+	duration = -1
+}
+add_country_modifier = {
+	name = swedish_naval_reforms
+	duration = -1
+}
+add_country_modifier = {
+	name = hsa_adler_ship
+	duration = -1
+}
+add_country_modifier = {
+	name = hsa_peter_ship
+	duration = -1
+}
+add_country_modifier = {
+	name = patriotic_curriculum
+	duration = -1
+}
+add_country_modifier = {
+	name = por_brazil_colonial
+	duration = -1
+}
+add_country_modifier = {
+	name = hardened_oak
+	duration = -1
+}
+add_country_modifier = {
+	name = maintenance_curriculum
+	duration = -1
+}
+add_country_modifier = {
+	name = wokou_turned_to_navy
+	duration = -1
+}
+add_country_modifier = {
+	name = thorough_careening
+	duration = -1
+}
+add_country_modifier = {
+	name = tun_morocco
+	duration = -1
+}
+add_country_modifier = {
+	name = ned_security_on_and_from_the_sea
+	duration = -1
+}
+add_country_modifier = {
+	name = rogue_traders_prosecuted
+	duration = -1
+}
+add_country_modifier = {
+	name = por_brazil_colonial
+	duration = -1
+}
+add_country_modifier = {
+	name = eng_channel_dominance
+	duration = -1
+}
+add_country_modifier = {
+	name = oma_maritime_mod
+	duration = -1
+}
+add_country_modifier = {
+	name = ori_coromandel_modifier
+	duration = -1
+}
+add_country_modifier = {
+	name = nov_north_sea_trade
+	duration = -1
+}
+add_country_modifier = {
+	name = india_light_ships
+	duration = -1
+}
+add_country_modifier = {
+	name = pirate_trade_practices
+	duration = -1
+}
+add_country_modifier = {
+	name = gra_merchants_inspired
+	duration = -1
+}
+add_country_modifier = {
+	name = kni_crusade_against_piracy
+	duration = -1
+}
+add_country_modifier = {
+	name = nap_barbary_pirates
+	duration = -1
+}
+add_country_modifier = {
+	name = sav_tyrrhenian_sea
+	duration = -1
+}
+add_country_modifier = {
+	name = pru_emden_company_modifier
+	duration = -1
+}
+add_country_modifier = {
+	name = hsa_baltic_trade_modifier
+	duration = -1
+}
+add_country_modifier = {
+	name = hanseatic_merchant_navy_modifier
+	duration = -1
+}
+add_country_modifier = {
+	name = agenda_privateering_cossacks
+	duration = -1
+}
+add_country_modifier = {
+	name = hire_privateers
+	duration = -1
+}
+add_country_modifier = {
+	name = employed_pirates
+	duration = -1
+}
+add_country_modifier = {
+	name = supported_republic_feud
+	duration = -1
+}
+add_country_modifier = {
+	name = recruited_pirates
+	duration = -1
+}
+add_country_modifier = {
+	name = agenda_privateering_cossacks
+	duration = -1
+}
+add_country_modifier = {
+	name = mor_barbary_pirate_coast
+	duration = -1
+}
+add_country_modifier = {
+	name = tun_barbary_pirates
+	duration = -1
+}
+add_country_modifier = {
+	name = berber_fleet
+	duration = -1
+}
+add_country_modifier = {
+	name = pirate_a_pirate_fleet
+	duration = -1
+}
+add_country_modifier = {
+	name = likedeelers_modifier
+	duration = -1
+}
+add_country_modifier = {
+	name = mor_barbary_pirate_coast
+	duration = -1
+}
